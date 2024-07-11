@@ -6,5 +6,3 @@
 - 🤔 I’m looking for help with Next.js.
 - 😄 Pronouns: He.
 - ⚡ Fun fact: I paid for Addblock.
-
-
